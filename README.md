@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=435&lines=Turning+data+into+decisions+📊;Powering+insights+with+Python+%26+SQL+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=435&lines=Turning+data+into+decisions+📊;Powering+insights+with+Python+%26+SQL+⚡" />
 </p>
 
 ---
@@ -21,9 +21,9 @@
 | 🔍 Project | 📁 Tech Stack | 📌 Highlights |
 |-----------|---------------|----------------|
 | [📊 Screen Time & App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Python, Pandas, Power BI | Time analysis dashboard on productivity |
-| [🌍 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | SQL, Python, Power BI | Cultural trends + market demand |
-| [🧳 Travel Insights](https://github.com/Bhishmadev2003/Travel_insights) | Excel, Power BI | Dashboard for tourism stats |
-| [🛒 E-commerce Sales Analysis](https://github.com/Bhishmadev2003/E_commerce-sales) | Excel, Power BI | Sales & profit dashboard by category |
+| [🌍 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | Python, Pandas, Power BI, SQL | Cultural trends + market demand |
+| [🧳 Travel Insights](https://github.com/Bhishmadev2003/Travel_insights) | Python, Pandas, Power BI, SQL | Dashboard for tourism stats |
+| [🛒 E-commerce Sales Analysis](https://github.com/Bhishmadev2003/E_commerce-sales) | Python, Pandas, Power BI, SQLI | Sales & profit dashboard by category |
 
 ---
 

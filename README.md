@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhishmadev Naskar</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=435&lines=Turning+data+into+decisions+📊;Powering+insights+with+Python+%26+SQL+⚡" />
-</p>
-
 ---
 
 ## 🧠 About Me

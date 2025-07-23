@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn_Matplotlib-purple" />
+  <img src="https://img.shields.io/badge/Seaborn-purple" />
+  <img src="https://img.shields.io/badge/Matplotlib-purple" />
   <img src="https://img.shields.io/badge/Plotly-brightgreen" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative_AI-blueviolet?logo=openai" />

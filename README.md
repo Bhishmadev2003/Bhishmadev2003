@@ -1,61 +1,78 @@
-# 📊 Bhishmadev Naskar – Data Analyst Portfolio
+<h1 align="center">📊 Bhishmadev Naskar – Data Analyst Portfolio</h1>
 
-Welcome to my Data Analyst portfolio! I’m Bhishmadev, a results-driven analyst with hands-on experience in data visualization, business intelligence, and data storytelling. My goal is to help organizations make data-backed decisions by transforming raw data into actionable insights.
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Bhishmadev Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
----
+<p align="center">
+  Data Analyst skilled in data storytelling, dashboards, and business insights.<br>
+  Passionate about transforming raw data into meaningful decisions.
+</p>
 
-## 🚀 Skills
+<hr>
 
-- Statistics  
-- SQL  
-- Excel  
-- Power BI  
-- Tableau  
-- Python  
-- Pandas  
-- Seaborn / Matplotlib  
-- Plotly  
-- GitHub  
-- Generative AI  
+<h2>🚀 Skills</h2>
+<ul>
+  <li>📐 Statistics</li>
+  <li>🗄️ SQL</li>
+  <li>📊 Excel</li>
+  <li>📈 Power BI</li>
+  <li>📉 Tableau</li>
+  <li>🐍 Python</li>
+  <li>🧮 Pandas</li>
+  <li>📘 Seaborn / Matplotlib</li>
+  <li>📍 Plotly</li>
+  <li>🔧 GitHub</li>
+  <li>🤖 Generative AI</li>
+</ul>
 
----
+<hr>
 
-## 📁 Projects
+<h2>📁 Projects</h2>
 
-### 💼 Job Market Demand Dashboard
-**Tools:** Power BI, Pandas  
-**Summary:** Analyzed job postings to uncover the most in-demand skills, job roles, and salary trends across regions.
+<h3>💼 Job Market Demand Dashboard</h3>
+<p><strong>Tools:</strong> Power BI, Pandas</p>
+<p>Analyzed job postings to identify high-demand roles and skill trends.</p>
+<img src="https://via.placeholder.com/600x300?text=Job+Market+Dashboard" alt="Job Market Dashboard" width="600">
 
-### ✈️ Travel Agency Insights
-**Tools:** Power BI  
-**Summary:** Customer segmentation and package optimization using booking and destination trends.
+<h3>✈️ Travel Agency Insights</h3>
+<p><strong>Tools:</strong> Power BI</p>
+<p>Customer segmentation & package performance analysis for travel business.</p>
+<img src="https://via.placeholder.com/600x300?text=Travel+Dashboard" alt="Travel Dashboard" width="600">
 
-### 🌍 Global Street Food Insights
-**Tools:** Tableau  
-**Summary:** Visualized cultural, pricing, and popularity data for global street food categories.
+<h3>🌍 Global Street Food Insights</h3>
+<p><strong>Tools:</strong> Tableau</p>
+<p>Visualized cultural, pricing, and popularity patterns of global street food.</p>
+<img src="https://via.placeholder.com/600x300?text=Street+Food+Dashboard" alt="Street Food Dashboard" width="600">
 
-### 📱 Screen Time & App Usage
-**Tools:** Python, Plotly  
-**Summary:** Behavioral analysis based on app categories, screen time hours, and user clusters.
+<h3>📱 Screen Time & App Usage</h3>
+<p><strong>Tools:</strong> Python, Plotly</p>
+<p>Analyzed user app engagement and behavior based on screen time patterns.</p>
+<img src="https://via.placeholder.com/600x300?text=App+Usage+Dashboard" alt="App Usage Dashboard" width="600">
 
-### 🛒 E-commerce Sales Report
-**Tools:** Excel, Power BI  
-**Summary:** Product and category-level sales performance with dynamic dashboards and pivot-based exploration.
+<h3>🛒 E-commerce Sales Report</h3>
+<p><strong>Tools:</strong> Excel, Power BI</p>
+<p>Sales performance and profitability breakdown by product and region.</p>
+<img src="https://via.placeholder.com/600x300?text=Ecommerce+Dashboard" alt="E-commerce Dashboard" width="600">
 
----
+<hr>
 
-## 🧠 Certifications
+<h2>🧠 Certification</h2>
+<ul>
+  <li>🤖 Microsoft: Generative AI for Data Analysis</li>
+</ul>
 
-- Microsoft: Generative AI for Data Analysis
+<hr>
 
----
+<h2>📬 Connect with Me</h2>
+<ul>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="#">Your LinkedIn URL</a></li>
+  <li>🐱 <strong>GitHub:</strong> <a href="https://github.com/yourusername">https://github.com/yourusername</a></li>
+  <li>📧 <strong>Email:</strong> yourname@example.com</li>
+</ul>
 
-## 📬 Connect with Me
+<hr>
 
-- LinkedIn: [Your LinkedIn URL]  
-- GitHub: [https://github.com/yourusername]  
-- Email: yourname@example.com
-
----
-
-> “Data is a tool for empowerment, not just analysis.”
+<blockquote>
+  “Data is a tool for empowerment, not just analysis.”
+</blockquote>

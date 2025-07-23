@@ -1,55 +1,50 @@
 <h1 align="center">Hi 👋, I'm Bhishmadev Naskar</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel | Business Thinking</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=435&lines=Data+drives+decisions+%F0%9F%93%8A;Analytical+thinking+%2B+Business+impact+%3D+Success" alt="Typing SVG" />
-</p>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
 
 ---
 
 ## 💡 About Me
 
-- 🎯 Focused on **Data Analytics & Business Strategy**  
-- 🧠 Strong skills in **Power BI, SQL, Python (Pandas), Excel**
-- 📊 Portfolio built with real-world dashboards & insights
-- 💼 Applying to **Data Analyst Intern / Fresher** roles  
+- 🎯 Focused on **Data Analytics & Business Strategy**
+- 📊 Building projects with **Power BI, SQL, Python, Excel**
+- 💼 Applying to **Data Analyst Intern / Fresher** roles
 - 🎯 Goal: Get a DA job before **30 September 2025**
 
 ---
 
-## 📌 Skills & Tools
+## 🧰 Tools & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Completed-green?logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Completed-blue?logo=pandas" />
-  <img src="https://img.shields.io/badge/SQL-Completed-blue?logo=postgresql" />
-  <img src="https://img.shields.io/badge/Power_BI-Completed-yellow?logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-Completed-green?logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/Tableau-Completed-orange?logo=tableau" />
-  <img src="https://img.shields.io/badge/Seaborn_Matplotlib-Completed-purple" />
-  <img src="https://img.shields.io/badge/Plotly-Completed-brightgreen" />
-  <img src="https://img.shields.io/badge/GitHub-Completed-black?logo=github" />
-  <img src="https://img.shields.io/badge/Generative_AI-Completed-blueviolet?logo=openai" />
+  <img src="https://img.shields.io/badge/Power_BI-yellow?logo=powerbi" />
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn_Matplotlib-purple" />
+  <img src="https://img.shields.io/badge/Plotly-brightgreen" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-blueviolet?logo=openai" />
 </p>
 
 ---
 
 ## 📂 Projects
 
-| 💼 Project | 📁 Tools | 📌 Status |
-|-----------|----------|----------|
-| [📈 Sales & Profit Dashboard](#) | Python, Pandas, Power BI | 🚧 Ongoing |
-| [💼 Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job_Market_Demand_Dashboard) | Power BI, Python | ✅ Completed |
-| [🌍 Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights) | Power BI | ✅ Completed |
-| [🍜 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | Power BI, SQL | ✅ Completed |
-| [📱 Screen Time and App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Power BI, Python | ✅ Completed |
-| [🛒 E-commerce Sales](https://github.com/Bhishmadev2003/E_commerce-sales) | Excel, Power BI | ✅ Completed |
+| 💼 Project | 📁 Tools | 🔄 Status |
+|-----------|----------|-----------|
+| [📈 Sales & Profit Dashboard](#) | Python (EDA), Power BI, SQL | 🚧 Ongoing |
+| [💼 Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job_Market_Demand_Dashboard) | Power BI, Python (Pandas)
+| [🌍 Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights) | Excel, Power BI, SQL, Python (Pandas)
+| [🍜 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | Excel, Power BI, SQL, Python (Pandas)
+| [📱 Screen Time and App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Excel, Power BI, Python (Pandas)
+| [🛒 E-commerce Sales](https://github.com/Bhishmadev2003/E_commerce-sales) | Excel, Power BI, SQL, Python (Pandas)
 
 ---
 
-## 🎓 Certifications & Courses
+## 🎓 Certifications
 
-- 📌 **Meta Data Analyst Certification** – _Ongoing_
+- 📌 **Meta Data Analyst Certification** – 🚧 Ongoing
 
 ---
 
@@ -68,5 +63,3 @@
 </p>
 
 ---
-
-⭐ _The future is in your hand._

@@ -5,10 +5,9 @@
 
 ## 💡 About Me
 
-- 🎯 Focused on **Data Analytics & Business Strategy**
-- 📊 Building projects with **Power BI, SQL, Python, Excel**
-- 💼 Applying to **Data Analyst Intern / Fresher** roles
-- 🎯 Goal: Get a DA job before **30 September 2025**
+Data Analyst with hands-on experience turning raw data into actionable insights using SQL, Python, and Power BI. Skilled in data cleaning,
+transformation, and building interactive dashboards that drive business decisions. Proficient in data modeling, exploratory analysis, and
+visualization. Strong communicator with a problem-solving mindset and a passion for storytelling through data.
 
 ---
 
@@ -46,6 +45,8 @@
 ## 🎓 Certifications
 
 - 📌 **Meta Data Analyst Certification** – 🚧 Ongoing
+- 📌 [Business Analytics with Excel Certification](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC84MzQ3MTcwXzg2OTkxMDExNzQ3MzA0NDY1ODE0LnBuZyIsInVzZXJuYW1lIjoiQmhpc2htYWRldiBOYXNrYXIifQ&utm_source=shared-certificate&utm_medium=app_lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Fcertificates.simplicdn.net%2Fshare%2F8347170_86991011747304465814.png&_branch_match_id=1456898716772370827&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FND%2FezDA0M8g5Jsq8rSk1LLSrKzEuPTyrKLy9OLbL1AapJTfHMAwBHVho%2FPwAAAA%3D%3D)
+- 📌 [Data Analytics Projects Certification](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzYwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODM1NDU3NV84Njk5MTAxMTc0NzQ3Mjg5NjMzMC5wbmciLCJ1c2VybmFtZSI6IkJoaXNobWFkZXYgTmFza2FyIn0&utm_source=shared-certificate&utm_medium=app_lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Fcertificates.simplicdn.net%2Fshare%2F8354575_86991011747472896330.png&_branch_match_id=1456898716772370827&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k83yPD19M8K9g5Jsq8rSk1LLSrKzEuPTyrKLy9OLbL1AapJTfHMAwBS8Kj3PwAAAA%3D%3D)
 
 ---
 

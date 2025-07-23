@@ -33,8 +33,8 @@ visualization. Strong communicator with a problem-solving mindset and a passion 
 
 | 💼 Project | 📁 Tools | 🔄 Status |
 |-----------|----------|-----------|
-| [📈 Sales & Profit Dashboard](#) | Python (EDA), Power BI, SQL | 🚧 Ongoing |
-| [💼 Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job_Market_Demand_Dashboard) | Power BI, Python (Pandas) | ✅ |
+| [📈 Sales & Profit Dashboard]() | Python (EDA), Power BI, SQL | 🚧 Ongoing |
+| [💼 Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job-Market-Analysis) | Power BI, Python (Pandas) | ✅ |
 | [🌍 Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights) | Excel, Power BI, SQL, Python (Pandas) | ✅ |
 | [🍜 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | Excel, Power BI, SQL, Python (Pandas) | ✅ |
 | [📱 Screen Time and App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Excel, Power BI, Python (Pandas) | ✅ |

@@ -1,78 +1,59 @@
-<h1 align="center">📊 Bhishmadev Naskar – Data Analyst Portfolio</h1>
+<h1 align="center">Hi 👋, I'm Bhishmadev Naskar</h1>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Bhishmadev Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=435&lines=Turning+data+into+decisions+📊;Powering+insights+with+Python+%26+SQL+⚡" alt="Typing SVG" />
 </p>
+
+---
+
+## 🧠 About Me
+
+- 🎯 Passionate about solving business problems using **data-driven insights**  
+- 📊 Skilled in **Power BI, SQL, Python (Pandas)** and **Advanced Excel**
+- 🌐 Exploring real-world datasets to build **dashboards and storytelling visuals**
+- 📚 Currently preparing for **CAT 2025** while building a strong data portfolio
+- 🔗 Portfolio: [Bhishmadev Projects on GitHub](https://github.com/Bhishmadev2003)
+
+---
+
+## 🚀 Projects
+
+| 🔍 Project | 📁 Tech Stack | 📌 Highlights |
+|-----------|---------------|----------------|
+| [📊 Screen Time & App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Python, Pandas, Power BI | Time analysis dashboard on productivity |
+| [🌍 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | SQL, Python, Power BI | Cultural trends + market demand |
+| [🧳 Travel Insights](https://github.com/Bhishmadev2003/Travel_insights) | Excel, Power BI | Dashboard for tourism stats |
+| [🛒 E-commerce Sales Analysis](https://github.com/Bhishmadev2003/E_commerce-sales) | Excel, Power BI | Sales & profit dashboard by category |
+
+---
+
+## 🧰 Tools & Tech Stack
 
 <p align="center">
-  Data Analyst skilled in data storytelling, dashboards, and business insights.<br>
-  Passionate about transforming raw data into meaningful decisions.
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-<hr>
+---
 
-<h2>🚀 Skills</h2>
-<ul>
-  <li>📐 Statistics</li>
-  <li>🗄️ SQL</li>
-  <li>📊 Excel</li>
-  <li>📈 Power BI</li>
-  <li>📉 Tableau</li>
-  <li>🐍 Python</li>
-  <li>🧮 Pandas</li>
-  <li>📘 Seaborn / Matplotlib</li>
-  <li>📍 Plotly</li>
-  <li>🔧 GitHub</li>
-  <li>🤖 Generative AI</li>
-</ul>
+## 📫 Let's Connect
 
-<hr>
+<p align="center">
+  <a href="mailto:bhishmadev2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bhishmadev-naskar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
-<h2>📁 Projects</h2>
+---
 
-<h3>💼 Job Market Demand Dashboard</h3>
-<p><strong>Tools:</strong> Power BI, Pandas</p>
-<p>Analyzed job postings to identify high-demand roles and skill trends.</p>
-<img src="https://via.placeholder.com/600x300?text=Job+Market+Dashboard" alt="Job Market Dashboard" width="600">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhishmadev2003&show_icons=true&theme=react&hide_title=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhishmadev2003&theme=react" alt="streak"/>
+</p>
 
-<h3>✈️ Travel Agency Insights</h3>
-<p><strong>Tools:</strong> Power BI</p>
-<p>Customer segmentation & package performance analysis for travel business.</p>
-<img src="https://via.placeholder.com/600x300?text=Travel+Dashboard" alt="Travel Dashboard" width="600">
+---
 
-<h3>🌍 Global Street Food Insights</h3>
-<p><strong>Tools:</strong> Tableau</p>
-<p>Visualized cultural, pricing, and popularity patterns of global street food.</p>
-<img src="https://via.placeholder.com/600x300?text=Street+Food+Dashboard" alt="Street Food Dashboard" width="600">
-
-<h3>📱 Screen Time & App Usage</h3>
-<p><strong>Tools:</strong> Python, Plotly</p>
-<p>Analyzed user app engagement and behavior based on screen time patterns.</p>
-<img src="https://via.placeholder.com/600x300?text=App+Usage+Dashboard" alt="App Usage Dashboard" width="600">
-
-<h3>🛒 E-commerce Sales Report</h3>
-<p><strong>Tools:</strong> Excel, Power BI</p>
-<p>Sales performance and profitability breakdown by product and region.</p>
-<img src="https://via.placeholder.com/600x300?text=Ecommerce+Dashboard" alt="E-commerce Dashboard" width="600">
-
-<hr>
-
-<h2>🧠 Certification</h2>
-<ul>
-  <li>🤖 Microsoft: Generative AI for Data Analysis</li>
-</ul>
-
-<hr>
-
-<h2>📬 Connect with Me</h2>
-<ul>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="#">Your LinkedIn URL</a></li>
-  <li>🐱 <strong>GitHub:</strong> <a href="https://github.com/yourusername">https://github.com/yourusername</a></li>
-  <li>📧 <strong>Email:</strong> yourname@example.com</li>
-</ul>
-
-<hr>
-
-<blockquote>
-  “Data is a tool for empowerment, not just analysis.”
-</blockquote>
+⭐ **_The future is in your hand._**

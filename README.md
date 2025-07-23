@@ -20,19 +20,16 @@
 ## 📌 Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Basic-green?logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Advanced-blue?logo=pandas" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue?logo=postgresql" />
-  <img src="https://img.shields.io/badge/Power_BI-Advanced-yellow?logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-Intermediate-green?logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/Tableau-Basic-orange?logo=tableau" />
-  <img src="https://img.shields.io/badge/Seaborn_Matplotlib-Intermediate-purple" />
-  <img src="https://img.shields.io/badge/Plotly-Intermediate-brightgreen" />
-  <img src="https://img.shields.io/badge/Numpy-Pending-lightgrey?logo=numpy" />
+  <img src="https://img.shields.io/badge/Python-Completed-green?logo=python" />
+  <img src="https://img.shields.io/badge/Pandas-Completed-blue?logo=pandas" />
+  <img src="https://img.shields.io/badge/SQL-Completed-blue?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Power_BI-Completed-yellow?logo=powerbi" />
+  <img src="https://img.shields.io/badge/Excel-Completed-green?logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Tableau-Completed-orange?logo=tableau" />
+  <img src="https://img.shields.io/badge/Seaborn_Matplotlib-Completed-purple" />
+  <img src="https://img.shields.io/badge/Plotly-Completed-brightgreen" />
   <img src="https://img.shields.io/badge/GitHub-Completed-black?logo=github" />
-  <img src="https://img.shields.io/badge/Git-Pending-lightgrey?logo=git" />
   <img src="https://img.shields.io/badge/Generative_AI-Completed-blueviolet?logo=openai" />
-  <img src="https://img.shields.io/badge/Business_Knowledge-Pending-lightgrey" />
 </p>
 
 ---
@@ -43,7 +40,6 @@
 |-----------|----------|----------|
 | [📈 Sales & Profit Dashboard](#) | Python, Pandas, Power BI | 🚧 Ongoing |
 | [💼 Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job_Market_Demand_Dashboard) | Power BI, Python | ✅ Completed |
-| [🏦 Financial Performance Dashboard](#) | Excel, Power BI | ⏳ Pending |
 | [🌍 Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights) | Power BI | ✅ Completed |
 | [🍜 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | Power BI, SQL | ✅ Completed |
 | [📱 Screen Time and App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Power BI, Python | ✅ Completed |
@@ -53,8 +49,7 @@
 
 ## 🎓 Certifications & Courses
 
-- 📌 **Meta Data Analyst Certification** – _Advanced_ (Ongoing)
-- 📌 **Microsoft Generative AI for Data Analysis** – _Advanced_ (Pending)
+- 📌 **Meta Data Analyst Certification** – _Ongoing_
 
 ---
 

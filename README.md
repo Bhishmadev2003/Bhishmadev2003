@@ -1,55 +1,61 @@
-<h1 align="center">Hi 👋, I'm Bhishmadev Naskar</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
+# 📊 Bhishmadev Naskar – Data Analyst Portfolio
+
+Welcome to my Data Analyst portfolio! I’m Bhishmadev, a results-driven analyst with hands-on experience in data visualization, business intelligence, and data storytelling. My goal is to help organizations make data-backed decisions by transforming raw data into actionable insights.
 
 ---
 
-## 🧠 About Me
+## 🚀 Skills
 
-- 🎯 Passionate about solving business problems using **data-driven insights**  
-- 📊 Skilled in **Power BI, SQL, Python (Pandas)** and **Advanced Excel**
-- 🌐 Exploring real-world datasets to build **dashboards and storytelling visuals**
-- 🔗 Portfolio: [Bhishmadev Projects on GitHub](https://github.com/Bhishmadev2003)
-
----
-
-## 🚀 Projects
-
-| 🔍 Project | 📁 Tech Stack | 📌 Highlights |
-|-----------|---------------|----------------|
-| [📊 Screen Time & App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage) | Python, Pandas, Power BI | Time analysis dashboard on productivity |
-| [🌍 Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights) | Python, Pandas, Power BI, SQL | Cultural trends + market demand |
-| [🧳 Travel Insights](https://github.com/Bhishmadev2003/Travel_insights) | Python, Pandas, Power BI, SQL | Dashboard for tourism stats |
-| [🛒 E-commerce Sales Analysis](https://github.com/Bhishmadev2003/E_commerce-sales) | Python, Pandas, Power BI, SQLI | Sales & profit dashboard by category |
+- Statistics  
+- SQL  
+- Excel  
+- Power BI  
+- Tableau  
+- Python  
+- Pandas  
+- Seaborn / Matplotlib  
+- Plotly  
+- GitHub  
+- Generative AI  
 
 ---
 
-## 🧰 Tools & Tech Stack
+## 📁 Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Seaborn-4C8CBF?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-</p>
+### 💼 Job Market Demand Dashboard
+**Tools:** Power BI, Pandas  
+**Summary:** Analyzed job postings to uncover the most in-demand skills, job roles, and salary trends across regions.
+
+### ✈️ Travel Agency Insights
+**Tools:** Power BI  
+**Summary:** Customer segmentation and package optimization using booking and destination trends.
+
+### 🌍 Global Street Food Insights
+**Tools:** Tableau  
+**Summary:** Visualized cultural, pricing, and popularity data for global street food categories.
+
+### 📱 Screen Time & App Usage
+**Tools:** Python, Plotly  
+**Summary:** Behavioral analysis based on app categories, screen time hours, and user clusters.
+
+### 🛒 E-commerce Sales Report
+**Tools:** Excel, Power BI  
+**Summary:** Product and category-level sales performance with dynamic dashboards and pivot-based exploration.
+
+---
+
+## 🧠 Certifications
+
+- Microsoft: Generative AI for Data Analysis
 
 ---
 
-## 📫 Let's Connect
+## 📬 Connect with Me
 
-<p align="center">
-  <a href="mailto:bhishmadev2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bhishmadev-naskar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhishmadev2003&show_icons=true&theme=react&hide_title=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhishmadev2003&theme=react" alt="streak"/>
-</p>
+- LinkedIn: [Your LinkedIn URL]  
+- GitHub: [https://github.com/yourusername]  
+- Email: yourname@example.com
 
 ---
+
+> “Data is a tool for empowerment, not just analysis.”

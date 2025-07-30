@@ -32,13 +32,17 @@ I’m a Data Analyst with hands-on experience transforming raw data into actiona
 | Project | Tools Used | Status |
 |--------|-------------|--------|
 | **[Sales & Profit Dashboard](https://github.com/Bhishmadev2003/sales-profit-performance-dashboard)** | Python (EDA), SQL, Power BI |
-| **[Marketing Campaign Insights]()** | SQL, Power BI, Python (Pandas) | In Progress |
-| **[Financial Performance Dashboard]()** | SQL, Excel, Power BI | In Progress |
+| **[Marketing Campaign Insights]()** | SQL, Power BI, Python (EDA) | In Progress |
+| **[Financial Performance Analysis]()** | SQL, Excel, Tableau, Python (EDA) | In Progress |
 | **[Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job-Market-Analysis)** | Python (Pandas), Power BI |
 | **[Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights)** | Excel, SQL, Power BI, Python |
 | **[Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights)** | Excel, SQL, Power BI, Python |
 | **[Screen Time and App Usage](https://github.com/Bhishmadev2003/screen_time_and_app_usage)** | Excel, Power BI, Python |
 | **[E-commerce Sales](https://github.com/Bhishmadev2003/E_commerce-sales)** | Excel, SQL, Power BI, Python |
+| **[pizzahut-sales-analysis-sql](https://github.com/Bhishmadev2003/pizzahut-sales-analysis-sql)** | Excel, SQL |
+| **[ms-dhoni-career-performance-dashboard](https://github.com/Bhishmadev2003/ms-dhoni-career-performance-dashboard)** | Excel, Power BI |
+| **[amazon-sales-analysis-python](https://github.com/Bhishmadev2003/amazon-sales-analysis-python)** | Excel, Python (Pandas) |
+| **[Mayo-Clinic-Leads-Flow-Dashboard-2022-2024](https://github.com/Bhishmadev2003/Mayo-Clinic-Leads-Flow-Dashboard-2022-2024-)** | Excel, Power BI |
 
 ---
 

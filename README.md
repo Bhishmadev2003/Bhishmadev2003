@@ -32,8 +32,8 @@ I’m a Data Analyst with hands-on experience transforming raw data into actiona
 | Project | Tools Used | Status |
 |--------|-------------|--------|
 | **[Sales & Profit Dashboard](https://github.com/Bhishmadev2003/sales-profit-performance-dashboard)** | Python (EDA), SQL, Power BI |
-| **[Marketing Campaign Insights]()** | SQL, Power BI, Python (EDA) | In Progress |
-| **[Financial Performance Analysis]()** | SQL, Excel, Tableau, Python (EDA) | In Progress |
+| **[Marketing Campaign Insights](https://github.com/Bhishmadev2003/marketing-campaign-insights)** | SQL, Power BI, Python (EDA) |
+| **[Financial Performance Analysis](https://github.com/Bhishmadev2003/bank-loan-analysis-dashboard)** | SQL, Excel, Tableau, Python (EDA) |
 | **[Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job-Market-Analysis)** | Python (Pandas), Power BI |
 | **[Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights)** | Excel, SQL, Power BI, Python |
 | **[Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights)** | Excel, SQL, Power BI, Python |

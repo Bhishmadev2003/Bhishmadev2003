@@ -43,6 +43,8 @@ I’m a Data Analyst with hands-on experience transforming raw data into actiona
 ## Certifications
 
 - [Meta Data Analyst Certification (Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/S7D7Q14109ZB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Python for Data Science, AI & Development (Coursera)](https://www.coursera.org/account/accomplishments/verify/PGV53NHX12JA)
+- [MySQL with Information Technology (Coursera)](https://www.coursera.org/account/accomplishments/verify/4G2UBN1P45XN)
 - [Deloitte Data Analytics Virtual Internship (Forage)](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy)
 - [Business Analytics with Excel – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC84MzQ3MTcwXzg2OTkxMDExNzQ3MzA0NDY1ODE0LnBuZyIsInVzZXJuYW1lIjoiQmhpc2htYWRldiBOYXNrYXIifQ)
 - [Data Analytics Projects – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzYwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODM1NDU3NV84Njk5MTAxMTc0NzQ3Mjg5NjMzMC5wbmciLCJ1c2VybmFtZSI6IkJoaXNobWFkZXYgTmFza2FyIn0)

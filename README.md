@@ -5,7 +5,11 @@
 
 ## About Me
 
-I’m a Data Analyst with hands-on experience transforming raw data into actionable insights using tools like SQL, Power BI, and Python. I specialize in data cleaning, transformation, visualization, and building interactive dashboards that support strategic decision-making. My core strengths lie in data modeling, exploratory data analysis, and storytelling with data.
+I am a Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python, focused on transforming raw data into actionable business insights.
+
+Currently working as an AI & MIS Assistant, I build dashboards, perform data analysis, and automate reporting processes to reduce manual effort and improve efficiency.
+
+I specialize in data cleaning, exploratory data analysis (EDA), and visualization, with a strong focus on solving real-world business problems using data.
 
 ---
 
@@ -22,40 +26,44 @@ I’m a Data Analyst with hands-on experience transforming raw data into actiona
   <img src="https://img.shields.io/badge/Matplotlib-11557C" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-blueviolet?logo=openai" />
 </p>
 
 ---
 
 ## Top Projects
 
-| Project | Tools Used | Status |
-|--------|-------------|--------|
-| **[Sales & Profit Dashboard](https://github.com/Bhishmadev2003/sales-profit-performance-dashboard)** | Python (EDA), SQL, Power BI |
-| **[Marketing Campaign Insights](https://github.com/Bhishmadev2003/marketing-campaign-insights)** | SQL, Power BI, Python (EDA) |
-| **[Financial Performance Analysis](https://github.com/Bhishmadev2003/bank-loan-analysis-dashboard)** | SQL, Excel, Tableau, Python (EDA) |
-| **[Job Market Demand Dashboard](https://github.com/Bhishmadev2003/Job-Market-Analysis)** | Python (Pandas), Power BI |
-| **[Travel Agency Insights](https://github.com/Bhishmadev2003/Travel_insights)** | Excel, SQL, Power BI, Python |
-| **[Global Street Food Insights](https://github.com/Bhishmadev2003/Global_street_food_insights)** | Excel, SQL, Power BI, Python |
+### 🔹 Bank Loan Analysis Dashboard
+- Tools: SQL, Python, Power BI  
+- Analyzed 38K+ loan applications to identify customer risk patterns and approval trends  
+
+### 🔹 Sales & Profit Dashboard
+- Tools: Excel, Power BI  
+- Built interactive dashboard to track revenue, profit, and business performance  
+
+### 🔹 Marketing Campaign Insights
+- Tools: SQL, Python, Power BI  
+- Analyzed 200K+ campaigns to identify high-performing segments and trends  
 
 ---
 
 ## Certifications
 
-- [Meta Data Analyst Certification (Coursera)](https://www.coursera.org/account/accomplishments/professional-cert/S7D7Q14109ZB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-- [Python for Data Science, AI & Development (Coursera)](https://www.coursera.org/account/accomplishments/verify/PGV53NHX12JA)
-- [MySQL with Information Technology (Coursera)](https://www.coursera.org/account/accomplishments/verify/4G2UBN1P45XN)
-- [Deloitte Data Analytics Virtual Internship (Forage)](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy)
-- [Business Analytics with Excel – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC84MzQ3MTcwXzg2OTkxMDExNzQ3MzA0NDY1ODE0LnBuZyIsInVzZXJuYW1lIjoiQmhpc2htYWRldiBOYXNrYXIifQ)
-- [Data Analytics Projects – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NzYwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODM1NDU3NV84Njk5MTAxMTc0NzQ3Mjg5NjMzMC5wbmciLCJ1c2VybmFtZSI6IkJoaXNobWFkZXYgTmFza2FyIn0)
+- Meta Data Analyst Certification (Coursera)  
+- Python for Data Science, AI & Development (Coursera)  
+- MySQL with Information Technology (Coursera)  
+- Deloitte Data Analytics Virtual Internship (Forage)  
 
 ---
 
 ## Connect with Me
 
 <p align="center">
-  <a href="mailto:bhishmadev2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bhishmadev-naskar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhishmadev2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhishmadevnaskar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---

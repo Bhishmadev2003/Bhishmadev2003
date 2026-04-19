@@ -7,7 +7,7 @@
 
 I am a Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python, focused on transforming raw data into actionable business insights.
 
-Currently working as an AI & MIS Assistant, I build dashboards, perform data analysis, and automate reporting workflows to reduce manual effort and improve efficiency.
+Currently working as an AI & MIS Assistant, I build dashboards, perform data analysis, and automate reporting workflows — reducing manual effort and improving decision-making efficiency.
 
 I specialize in data cleaning, exploratory data analysis (EDA), and visualization, with a strong focus on solving real-world business problems using data.
 
@@ -27,25 +27,30 @@ I specialize in data cleaning, exploratory data analysis (EDA), and visualizatio
   <img src="https://img.shields.io/badge/Plotly-3F4F75" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?logo=powerbi" />
-  <img src="https://img.shields.io/badge/EDA-Data%20Analysis-blueviolet" />
 </p>
 
 ---
 
 ## Top Projects
 
-### 🔹 Bank Loan Analysis Dashboard  
+### 🔹 [Bank Loan Analysis Dashboard](https://github.com/Bhishmadev2003/bank-loan-analysis-dashboard)
 - Tools: SQL, Python (Pandas, Seaborn), Power BI, Excel  
-- Analyzed 38K+ loan applications to identify approval trends and customer risk patterns  
-- Built interactive dashboard for business insights  
+- Analyzed **38K+ loan applications** to identify approval trends and customer risk patterns  
+- Built interactive dashboard to support business decision-making  
 
-### 🔹 Sales & Profit Dashboard  
+---
+
+### 🔹 [Sales & Profit Dashboard](https://github.com/Bhishmadev2003/sales-profit-performance-dashboard)
 - Tools: Excel, Power BI, DAX  
-- Developed interactive dashboard to track revenue, profit, and performance trends  
+- Developed dashboard to track **revenue, profit, and KPIs**  
+- Enabled faster performance monitoring and reporting  
 
-### 🔹 Marketing Campaign Insights  
+---
+
+### 🔹 [Marketing Campaign Insights](https://github.com/Bhishmadev2003/marketing-campaign-insights)
 - Tools: SQL, Python (EDA), Power BI  
-- Analyzed 200K+ campaigns to identify high-performing segments and marketing trends  
+- Analyzed **200K+ marketing campaigns** to identify high-performing segments  
+- Delivered insights to improve targeting and campaign effectiveness  
 
 ---
 
@@ -55,7 +60,7 @@ I specialize in data cleaning, exploratory data analysis (EDA), and visualizatio
 - Python for Data Science, AI & Development (Coursera)  
 - MySQL with Information Technology (Coursera)  
 - Deloitte Data Analytics Virtual Internship (Forage)  
-- IBM Data Science Professional Certificate (In Progress)  
+- IBM Data Science Professional Certificate (Ongoing)  
 
 ---
 
